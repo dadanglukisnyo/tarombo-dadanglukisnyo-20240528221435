@@ -1,0 +1,38 @@
+{
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "22:13:56",
+      "value": "28 MAY 2024"
+    },
+    "file": "3.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.0 (f566155)"
+    }
+  },
+  "people": [
+    {
+      "id": "I1*3bdaa278-9be6-41b9-af00-936f0ffc20e3",
+      "names": [
+        {
+          "value": "P /P/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    }
+  ]
+}
