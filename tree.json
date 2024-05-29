@@ -1,4 +1,19 @@
 {
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*8c7d745c-feda-4905-a445-be1cf88269a3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*3bdaa278-9be6-41b9-af00-936f0ffc20e3"
+        }
+      ],
+      "id": "F1*141dd53e-239a-4ba1-87b9-39efb3e6ed12"
+    }
+  ],
   "head": {
     "charset": {
       "value": "UTF-8"
@@ -21,10 +36,34 @@
   },
   "people": [
     {
+      "fams": [
+        {
+          "ref": "F1*141dd53e-239a-4ba1-87b9-39efb3e6ed12"
+        }
+      ],
       "id": "I1*3bdaa278-9be6-41b9-af00-936f0ffc20e3",
       "names": [
         {
           "value": "P /P/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*141dd53e-239a-4ba1-87b9-39efb3e6ed12"
+        }
+      ],
+      "id": "I2*8c7d745c-feda-4905-a445-be1cf88269a3",
+      "names": [
+        {
+          "value": "Anak /P/"
         }
       ],
       "eventsFacts": [
