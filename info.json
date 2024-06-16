@@ -1,9 +1,11 @@
 {
+  "createdAt": "2024-05-28T15:14:36Z",
   "generations": 2,
   "grade": 0,
   "isForked": false,
   "media": 0,
-  "persons": 2,
+  "persons": 3,
   "root": "I1*3bdaa278-9be6-41b9-af00-936f0ffc20e3",
-  "title": "D3"
+  "title": "D3",
+  "updatedAt": "2024-06-16T10:16:15.628Z"
 }
