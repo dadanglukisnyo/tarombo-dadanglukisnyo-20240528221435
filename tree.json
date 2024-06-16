@@ -4,6 +4,9 @@
       "childRefs": [
         {
           "ref": "I2*8c7d745c-feda-4905-a445-be1cf88269a3"
+        },
+        {
+          "ref": "I3*2e792f81-f4fd-4459-87e0-1b8259335a42"
         }
       ],
       "husbandRefs": [
@@ -74,6 +77,25 @@
         {
           "tag": "_CONN",
           "value": "dadanglukisnyo/tarombo-dadanglukisnyo-20240616164523"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*141dd53e-239a-4ba1-87b9-39efb3e6ed12"
+        }
+      ],
+      "id": "I3*2e792f81-f4fd-4459-87e0-1b8259335a42",
+      "names": [
+        {
+          "value": "A /P/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
