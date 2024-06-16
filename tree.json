@@ -63,13 +63,17 @@
       "id": "I2*8c7d745c-feda-4905-a445-be1cf88269a3",
       "names": [
         {
-          "value": "Anak 5 /P/"
+          "value": "connector"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "_CONN",
+          "value": "dadanglukisnyo/tarombo-dadanglukisnyo-20240616164523"
         }
       ]
     }
